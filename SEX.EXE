@@ -1,0 +1,69 @@
+#include <iostream> 
+#include <string>
+#include <Windows.h> 
+using namespace std; 
+
+int main()
+{
+	cout << "launching sex.lesbians.trojan.exe" << endl; 
+
+	for (int a = 0; a < 4; a++)
+	{
+		cout << " >  " << endl; 
+		Sleep(1100); 
+	}
+
+	Sleep(3000);
+
+	for (int n = 0; n < 200; n++)
+	{
+		cout << "INSTALLING .......    ";
+		Sleep(10);
+	}
+
+	cout << endl << endl << endl << endl << endl; 
+
+	for (int c = 0; c < 150; c++)
+	{
+		cout << "DELETING SYSTEM32      ----     DELETING SYSTEM32      "; 
+		Sleep(3); 
+	}
+
+	Sleep(3000); 
+
+	cout << endl; 
+	for (int e = 0; e < 40; e++)
+	{
+		cout << " - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - " << endl; 
+		Sleep(75);
+	}
+
+	cout << "	TRIP BURDING " << endl; 
+	Sleep(10); 
+	cout << "					TRIP BURDING " << endl;
+	Sleep(10); 
+	cout << "	TRIP BURDING " << endl; 
+	cout << "		TRIP BURDING " << endl;
+	Sleep(10);
+	cout << "			TRIP BURDING " << endl;
+	Sleep(10);
+	cout << "TRIP BURDING " << endl;
+	Sleep(2000); 
+
+	cout << "				Installation Success :)" << endl; 
+	cout << "				Installation Success :)" << endl;
+	cout << "				Installation Success :)" << endl;
+	cout << "				Installation Success :)" << endl;
+	cout << "				Installation Success :)" << endl;
+	cout << "				Installation Success :)" << endl;
+	cout << "				Installation Success :)" << endl;
+	cout << "				Installation Success :)" << endl;
+	cout << "				Installation Success :)" << endl;
+
+	Sleep(1800); 
+
+	int	z = 0; 
+	int i = 1 / z; 
+	// abort(); 
+}
+
